@@ -6,4 +6,7 @@ document.getElementById('Resume').addEventListener('click', function (event) {
     document.body.appendChild(link); // Temporarily add the link to the document
     link.click(); // Trigger the download
     document.body.removeChild(link); // Remove the link after the download
-});
+}); 
+
+
+  
