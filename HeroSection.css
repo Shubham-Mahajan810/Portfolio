@@ -1,0 +1,125 @@
+
+
+/* Hero Section */
+.hero_section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 100vh;
+  padding: 0 20px;
+}
+
+.hero_content {
+  max-width: 800px;
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+/* Text Styling */
+#textDisplay {
+  font-size: clamp(1.5rem, 2.5vw, 3rem);
+  font-weight: 600;
+  background: linear-gradient(90deg, #d29346, #32b76e);
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: gradientText 5s linear infinite;
+}
+
+@keyframes gradientText {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.p2 {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+.p3 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 700;
+  color: #e8da46;
+  
+}
+
+#textDisplay1 {
+  font-size: 1.5rem;
+  color: #3991d9;
+  margin-top: 10px;
+  animation: fadeInUp 2s ease-in-out;
+}
+
+.p {
+  margin-top: 20px;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Call-to-Action Button */
+.cta_button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 24px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #fff;
+  background-color: #32b76e;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cta_button:hover {
+  transform: scale(1.1);
+  background-color: #28a465;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+  #textDisplay {
+    font-size: 1.8rem;
+  }
+  .p3 {
+    font-size: 2rem;
+  }
+  #textDisplay1 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .p3 {
+    font-size: 1.5rem;
+  }
+  .p {
+    font-size: 0.9rem;
+  }
+}

@@ -1,4 +1,4 @@
-const texts = ["Hello and welcome!", "Welcome to the site!"];
+const texts = ["Hello and welcome!", "Welcome to my portfolio!"];
 let index = 0;
 
 // Function to change the text
@@ -12,7 +12,7 @@ function changeText() {
 setInterval(changeText, 3000);
 
 
-const text1 = ["Full-Stack Developer", "Java Developer"];
+const text1 = ["Full-Stack Developer", "Java Developer","Creative Thinker"];
 let index1 = 0;
 
 // Function to change the text
