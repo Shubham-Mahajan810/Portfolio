@@ -44,7 +44,8 @@ nav {
 }
 .header_p2{
  font-size: 18px;
- color: blueviolet;
+ /* color: blueviolet; */
+ color:rgb(210, 161, 252);
 }
 
 .right-content {
@@ -66,7 +67,9 @@ nav {
 }
 
 .right-content a:hover {
-  color: blueviolet;
+  /* color: blueviolet; */
+  color:rgb(210, 161, 252);
+ 
 }
 
 /* Hamburger Menu Styles for Mobile */
@@ -267,6 +270,10 @@ body {
     flex: 1;
     min-width: 300px;
   }
+  .education-section-h2{
+    /* color:blueviolet; */
+    color:rgb(210, 161, 252);
+  }
   
   .education-section, .skills-section {
     margin-bottom: 30px;
@@ -376,8 +383,9 @@ body {
   
   button {
     padding: 10px 20px;
-    background: hsl(271, 76%, 53%);
-    color: #fff;
+    /* background: hsl(271, 76%, 53%); */
+    background:rgb(210, 161, 252);
+    color: #181818;
     border: none;
     border-radius: 5px;
     cursor: pointer;
