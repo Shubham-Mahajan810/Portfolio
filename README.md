@@ -6,15 +6,19 @@ This is my personal portfolio website built to showcase my skills, projects, and
 
 Check it out here: [https://your-portfolio-url.com](https://shubham-y-mahajan.onrender.com/)
 
-## 📸 Screenshots
+## 🖼️ Screenshots
 
-| Home | Projects | Contact |
-|------|----------|---------|
-| ![Home](screenshots/home.png<img width="1878" height="918" alt="Screenshot 2025-01-21 151731" src="https://github.com/user-attachments/assets/6eb202b7-d841-4f29-a5ba-aac581e31a14" />
-) | ![Projects](<img width="1868" height="917" alt="Screenshot 2025-01-21 151815" src="https://github.com/user-attachments/assets/8ea250b4-2202-4c60-b47f-06b2fc495499" />
-) | ![Contact](screenshots/contact.png<img width="1873" height="908" alt="Screenshot 2025-01-21 151851" src="https://github.com/user-attachments/assets/7a7d78a9-b893-4c68-b17f-3d4e76abc53b" />
-) |
+### 🏠 Home Page
+![Home Page](<img width="1878" height="918" alt="Screenshot 2025-01-21 151731" src="https://github.com/user-attachments/assets/31db723f-715c-42ea-937d-6517a8e81ab8" />
+)
 
+### 💼 Projects Section
+![Projects](<img width="1868" height="917" alt="Screenshot 2025-01-21 151815" src="https://github.com/user-attachments/assets/679ac1e8-1c24-425c-a298-370466234281" />
+)
+
+### 📬 Contact Form
+![Contact](<img width="1873" height="908" alt="Screenshot 2025-01-21 151851" src="https://github.com/user-attachments/assets/5b4c310f-b14b-48d5-add9-a6f270faa075" />
+)
 ## 🚀 Features
 
 - ✨ Responsive design for all devices
