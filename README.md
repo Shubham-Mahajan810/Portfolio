@@ -9,16 +9,17 @@ Check it out here: [https://your-portfolio-url.com](https://shubham-y-mahajan.on
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page]<img width="1878" height="918" alt="Screenshot 2025-01-21 151731" src="https://github.com/user-attachments/assets/51739d62-3606-4407-b85c-744cf5539226" />
+![Home Page]<img width="1918" height="857" alt="Screenshot 2025-07-21 003157" src="https://github.com/user-attachments/assets/4ce0c7c7-c2bd-49a4-af7c-b5ca290aba3d" />
+
 
 
 ### 💼 Projects Section
-![Projects](<img width="1868" height="917" alt="Screenshot 2025-01-21 151815" src="https://github.com/user-attachments/assets/679ac1e8-1c24-425c-a298-370466234281" />
-)
+![Projects] <img width="1908" height="867" alt="Screenshot 2025-07-21 003243" src="https://github.com/user-attachments/assets/d29934f1-bc96-4ba8-a2e7-0c3f943d8035" />
+
 
 ### 📬 Contact Form
-![Contact](<img width="1873" height="908" alt="Screenshot 2025-01-21 151851" src="https://github.com/user-attachments/assets/5b4c310f-b14b-48d5-add9-a6f270faa075" />
-)
+![Contact]<img width="1898" height="859" alt="Screenshot 2025-07-21 003308" src="https://github.com/user-attachments/assets/dcc9d965-f695-4606-b660-6d6772157704" />
+
 ## 🚀 Features
 
 - ✨ Responsive design for all devices
