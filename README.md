@@ -9,8 +9,8 @@ Check it out here: [https://your-portfolio-url.com](https://shubham-y-mahajan.on
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page
-![Home Page](<img width="1878" height="918" alt="Screenshot 2025-01-21 151731" src="https://github.com/user-attachments/assets/31db723f-715c-42ea-937d-6517a8e81ab8" />
-)
+![Home Page]<img width="1878" height="918" alt="Screenshot 2025-01-21 151731" src="https://github.com/user-attachments/assets/51739d62-3606-4407-b85c-744cf5539226" />
+
 
 ### 💼 Projects Section
 ![Projects](<img width="1868" height="917" alt="Screenshot 2025-01-21 151815" src="https://github.com/user-attachments/assets/679ac1e8-1c24-425c-a298-370466234281" />
